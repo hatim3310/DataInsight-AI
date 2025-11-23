@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nUpdate: README professionnel avec mise en valeur de Gemini\n\n- Ajout d''une section détaillée \"Pourquoi Gemini ?\"\n- Démonstration des capacités d''analyse avancées\n- Exemples concrets d''utilisation avec Gemini\n- Tableaux comparatifs des fonctionnalités\n- Cas d''usage réels (E-commerce, Finance, Santé, Éducation)\n- Badges professionnels et navigation améliorée\n- Section complète sur les technologies utilisées\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
