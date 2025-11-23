@@ -283,13 +283,7 @@ Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plu
 
 ---
 
-## 📞 Contact & Support
 
-- 🌐 **Demo Live** : [AI Studio App](https://ai.studio/apps/drive/1zW1qp0QejwhDRza1YX9KbW_ssVeOywc5)
-- 📧 **Issues** : [GitHub Issues](https://github.com/hatim3310/DataInsight-AI/issues)
-- 💬 **Discussions** : [GitHub Discussions](https://github.com/hatim3310/DataInsight-AI/discussions)
-
----
 
 <div align="center">
 
