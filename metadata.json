@@ -1,0 +1,5 @@
+{
+  "name": "DataInsight AI",
+  "description": "An intelligent data analysis dashboard powered by Gemini 2.5. Upload CSV files to get instant automated insights, visualizations, and a conversational data assistant. A modern React alternative to Streamlit for portfolios.",
+  "requestFramePermissions": []
+}
